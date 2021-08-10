@@ -1,0 +1,19 @@
+    ls : 디렉터리 하위 목록 표시
+    ls -a : 숨겨진 파일, 디렉터리까지 볼수있음
+    ls -l : 디렉터리의 내용을 자세히 출력
+    ls -al : 자세히 숨겨진 파일까지 볼수있음
+    ls -R : 하위경로와 그 안에있는 파일들도 같이 출력
+    ls -d 디렉터리명 : 디렉터리의 정보 출력
+    pwd : 현재 디렉터리의 위치
+    cd : 디렉토리 위치 변경 ex) cd c:forder
+    . : 현재 디렉토리/ .. : 상위 디렉토리
+    mkdir forder : 새 디렉터리 생성
+    git init : git 저장소를 생성
+    git add 디렉토리명 : git저장소에 저장ex) git add .
+    git status : git 저장소의 현재상태
+    git log : commit 로그를 보여줌
+    git commit -m 'version1'
+    git config --global user.email "bwj9127@dgist.ac.kr"
+    git config --global user.name "baekwonjung"
+    git log - p :각 커밋의 diff결과를 보여줌
+
